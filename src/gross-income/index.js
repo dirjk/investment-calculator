@@ -1,0 +1,1 @@
+export { default as GrossIncome } from './GrossIncome.jsx'
