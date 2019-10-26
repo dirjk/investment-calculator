@@ -56,7 +56,7 @@ export default class GrossIncome extends Component {
                     <input type="number" value={rent} onChange={this.updateRent}></input>
                 </p>
                 <p>
-                    Total Gross Income: {grossIncome} per month
+                    <strong>Total Gross Income: {grossIncome} per month</strong>
                 </p>
             </div>
         )
